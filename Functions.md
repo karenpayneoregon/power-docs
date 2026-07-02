@@ -3,7 +3,14 @@
 :bulb: [Web page](https://learn.microsoft.com/en-us/power-platform/power-fx/overview)
 
 
+# Use variables in a formula
 
+To use a variable in a Power Fx formula, you must suggest a prefix to its name to indicate the variable's scope:
+
+- For [system](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-variables-about#system-variables) variables, use `System`.
+- For [global](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-variables-bot) variables, use `Global`.
+- For [topic](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-variables-about) variables, use `Topic`.
+- For [environment](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-variables-about) variables, use `Environment`.
 
 # To get the current date and time in a specific time zone <!-- markdownlint-disable-line MD025 -->
 
