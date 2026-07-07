@@ -1,4 +1,5 @@
 - [Write agent instructions](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-instructions)
+- [Agent evaluation](httpcs://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-agent-evaluation-intro)
 - [Key concepts](https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-fundamentals-publish-channels?tabs=web)
 - [Agents for customer engagement and handoff](https://learn.microsoft.com/en-us/microsoft-copilot-studio/customer-copilot-overview)
 - Publishing to channels
