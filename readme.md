@@ -10,3 +10,6 @@
 
 [Handle errors effectively](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/cux-handle-errors)
 
+[Export and import agents using solutions](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-solutions-import-export)
+
+Overview of Microsoft [Copilot Studio extension](https://learn.microsoft.com/en-us/microsoft-copilot-studio/visual-studio-code-extension-overview) for Microsoft Visual Studio Code
