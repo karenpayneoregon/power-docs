@@ -16,3 +16,6 @@ Overview of Microsoft [Copilot Studio extension](https://learn.microsoft.com/en-
 
 
 [Orchestrator and subagent multi-agent patterns](https://learn.microsoft.com/en-us/agents/architecture/multi-agent-orchestrator-sub-agent)
+
+
+Using [Multi-agent Orchestration](https://www.youtube.com/watch?v=WKKdBC2zM3k) in Microsoft Copilot Studio (Parent Child Copilot Agents Tutorial) :film_strip:
