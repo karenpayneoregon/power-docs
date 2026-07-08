@@ -13,3 +13,6 @@
 [Export and import agents using solutions](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-solutions-import-export)
 
 Overview of Microsoft [Copilot Studio extension](https://learn.microsoft.com/en-us/microsoft-copilot-studio/visual-studio-code-extension-overview) for Microsoft Visual Studio Code
+
+
+[Orchestrator and subagent multi-agent patterns](https://learn.microsoft.com/en-us/agents/architecture/multi-agent-orchestrator-sub-agent)
