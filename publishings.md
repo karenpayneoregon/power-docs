@@ -8,6 +8,7 @@
   - [Publish to web](https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-fundamentals-publish-channels?tabs=web)
   - [Publish to Microsoft Teams](https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-add-bot-to-microsoft-teams)
     - [How To Deploy Copilot Studio Agents in Microsoft Teams](https://www.youtube.com/watch?v=NpSsxmbhGQU) YouTube :film_strip:
+    - Copilot Studio Publishing to [Channels Quick Guide](https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-add-bot-to-microsoft-teams) V.1
 
 ## How to remove Channel Agent
 
