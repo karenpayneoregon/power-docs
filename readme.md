@@ -19,5 +19,3 @@ Overview of Microsoft [Copilot Studio extension](https://learn.microsoft.com/en-
 
 
 Using [Multi-agent Orchestration](https://www.youtube.com/watch?v=WKKdBC2zM3k) in Microsoft Copilot Studio (Parent Child Copilot Agents Tutorial) :film_strip:
-
-Going beyond text in Microsoft 365 Copilot – [Introducing SharePoint Copilot Apps](https://devblogs.microsoft.com/microsoft365dev/going-beyond-text-in-microsoft-365-copilot-introducing-sharepoint-copilot-apps/)
