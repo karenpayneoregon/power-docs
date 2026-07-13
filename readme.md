@@ -1,4 +1,8 @@
-# Power FX docs
+# Microsoft Copilot Studio
+
+[Microsoft Copilot Studio documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+
+## Power FX docs
 
 [Variables](https://learn.microsoft.com/en-us/power-platform/power-fx/variables)
 
