@@ -19,3 +19,8 @@ Overview of Microsoft [Copilot Studio extension](https://learn.microsoft.com/en-
 
 
 Using [Multi-agent Orchestration](https://www.youtube.com/watch?v=WKKdBC2zM3k) in Microsoft Copilot Studio (Parent Child Copilot Agents Tutorial) :film_strip:
+
+
+![alt-text](./assets/title.png "workflow diagram of agent orchestration in Microsoft Copilot Studio")
+
+
